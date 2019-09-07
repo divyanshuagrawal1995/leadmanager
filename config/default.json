@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Shopping_list:Shopping_list@cluster0-j7uuv.mongodb.net/shopping-list",
+    "jwtSecret":"thismysecretkey"
+
+}
+   
